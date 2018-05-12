@@ -1,0 +1,32 @@
+_repo: Ubu-Roiou-les-Polonais_16884
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jarry, Alfred
+    birthdate: 1873
+    deathdate: 1907
+    gutenberg_agent_id: '6994'
+    url: http://www.gutenberg.org/2009/agents/6994
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Alfred_Jarry
+    - http://en.wikipedia.org/wiki/Alfred_Jarry
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2005-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16884'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French drama -- 19th century'
+title: 'Ubu Roi
+
+  ou les Polonais'
+url: http://www.gutenberg.org/ebooks/16884
