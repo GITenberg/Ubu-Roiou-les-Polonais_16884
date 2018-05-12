@@ -14,6 +14,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Alfred_Jarry
     - http://en.wikipedia.org/wiki/Alfred_Jarry
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16884#Ubu-Roiou-les-Polonais
 gutenberg_bookshelf: FR Théâtre
 gutenberg_issued: '2005-10-16'
 gutenberg_type: Text
